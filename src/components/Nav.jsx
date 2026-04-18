@@ -27,7 +27,7 @@ function Nav() {
             </a>
             <a
               title="Github"
-              href="https://github.com/bellucogabriele0-create"
+              href="https://github.com/GabrieleBelluco"
               target="_blank"
               className="btn btn-dark "
             >

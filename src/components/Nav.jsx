@@ -19,7 +19,7 @@ function Nav() {
             </a>
             <a
               title="Linkedin"
-              href="https://www.linkedin.com/in/gabriele-belluco-bba15739b/"
+              href="https://www.linkedin.com/in/gabriele-belluco/"
               target="_blank"
               className="btn btn-dark "
             >

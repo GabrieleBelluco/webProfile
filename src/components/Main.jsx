@@ -7,7 +7,7 @@ function Main() {
       <Row className="align-items-center g-4">
         <Col xs={12} md={4} className="text-center">
           <img
-            src="../public/img/img.jpeg"
+            src="https://avatars.githubusercontent.com/u/230707350?v=4"
             alt="Foto del proprietario del sito"
             className="img-fluid rounded rounded-5 shadow w-75"
           />

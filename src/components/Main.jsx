@@ -7,7 +7,7 @@ function Main() {
       <Row className="align-items-center g-4">
         <Col xs={12} md={4} className="text-center">
           <img
-            src="https://media.licdn.com/dms/image/v2/D4D35AQGeBydxgG9Q0Q/profile-framedphoto-shrink_400_400/B4DZ2WHaEOJQAc-/0/1776340017709?e=1777122000&v=beta&t=Q8gu3MrcAYBljgA48JVKz9_6J-Cksk8Y5WzvF2KMPmA"
+            src="../public/img/img.jpeg"
             alt="Foto del proprietario del sito"
             className="img-fluid rounded rounded-5 shadow w-75"
           />
